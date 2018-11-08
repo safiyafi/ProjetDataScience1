@@ -1,0 +1,51 @@
+  Nom;  Prénom;   Adresse;   Moyenne;   Age;  Région;  Spécialité;  Sexe
+AW;Abdou ;Dakar;9;18;Dakar;S;M
+AW;Roky;Dakar;12;17;Dakar;L;F
+BA;Safiya;Rufisque;14;18;Dakar;S;F
+BA;Moussa;Thiés;10;18;Thiés;L;M
+BA;Babacar;Thiés;12;16;Thiés;L;M
+CAMARA;Daouda;Rufisque;11;17;Dakar;L;M
+CAMARA;Khady;Pikine;14;20;Dakar;S;F
+CAMARA;Lamine;Mbao;15;18;Dakar;S;M
+CAMARA;Nar;Mbao;14;18;Dakar;L;F
+DIOP;Abdou ;Mbao;11;18;Dakar;L;M
+DIOP;Codou;Dakar;10;18;Dakar;L;F
+DIOP;Elimane;Dakar;9;18;Dakar;L;M
+DIOP;Fatou;Dakar;8;17;Dakar;L;F
+DIOP;Ibrahima;Dakar;14;17;Dakar;L;M
+DIOP;Marie;Dakar;13;19;Dakar;S;F
+DIOP;Lamine;Dakar;14;16;Dakar;S;M
+DIOP;Robert;Dakar;15;18;Dakar;S;M
+DIOP;Moussa;Dakar;17;18;Dakar;S;M
+FALL;Ababacar;Dakar;12;18;Dakar;L;M
+FALL;Boubacar;Thiés;14;18;Thiés;S;M
+FALL;Fanta;Pikine;13;19;Dakar;S;F
+FALL;Modou;Keur Massar;14;17;Dakar;L;M
+FALL;Issa;Commico;12;17;Dakar;L;M
+GUEYE;Djibril;Ouakam;15;17;Dakar;S;M
+GUEYE;Mbaye;Yoff;17;18;Dakar;L;M
+GUEYE;Moussa;Rufisque;16;18;Dakar;L;M
+GUEYE;Maguette;Rufisque;14;18;Dakar;S;M
+GUEYE;Aminata;Rufisque;13;16;Dakar;L;F
+GUEYE;Khady;Rufisque;11;16;Dakar;L;F
+GUEYE;Mareme;Rufisque;10;17;Dakar;L;F
+GUEYE;Fatou;Rufisque;10;18;Dakar;L;F
+KA;Demba ;Mbao;10;21;Dakar;L;M
+KA;Djibril;Mbao;12;17;Dakar;L;M
+KA;Thierno;Mbao;8;18;Dakar;L;M
+LO;Aminata;Mbao;11;18;Dakar;L;F
+LO;Thierno;Mbao;11;18;Dakar;L;M
+NDIAYE;Abdou ;Parcelles;11;17;Dakar;L;M
+NDIAYE;Babacar;Pikine;10;16;Dakar;L;M
+NDIAYE;Atoumane;Ouakam;14;17;Dakar;S;M
+NDIAYE;Daouda;Parcelles;12;17;Dakar;S;M
+NDIAYE;Birima;Parcelles;13;18;Dakar;S;M
+NDIAYE;Asma;Fass;11;19;Dakar;L;F
+NDIAYE;Salman;Rufisque;14;19;Dakar;L;M
+NDIAYE;Walimata;Rufisque;15;17;Dakar;S;F
+NDIAYE;Sumaya;Rufisque;14;20;Dakar;S;F
+NDIAYE;Alioune;Dakar;13;18;Dakar;L;M
+NDIAYE;Abdallah;Dakar;9;18;Dakar;L;M
+NDIAYE;Diatou;Dakar;12;18;Dakar;L;F
+NDIAYE;Idrissa;Dakar;11;18;Dakar;S;M
+POUYE;Aminata;Yoff;12;17;Dakar;L;F
