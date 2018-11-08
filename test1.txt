@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle XY curves.
+ Le num‚ro de s‚rie du volume est 926F-DE81
+
+ R‚pertoire de C:\Users\toshiba\Desktop\Projet1
+
+08/11/2018  11:34    <REP>          .
+08/11/2018  11:34    <REP>          ..
+08/11/2018  11:34                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)   5ÿ174ÿ935ÿ552 octets libres
